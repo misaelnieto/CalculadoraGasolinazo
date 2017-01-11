@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora Gasolinazo</string>
+    <string name="title_konverter_detail">Konverter Detail</string>
+    <string name="title_activity_konvertilo">Conversor Litro/peso ↔ Dolar/Galon</string>
+    <string name="tab_usd_mxn">"Dólares a Peso"</string>
+    <string name="tab_mxn_usd">"Peso a Dólar"</string>
+    <string name="precio_usd_mxn">Precio en dólares por galón</string>
+    <string name="precio_mxn_usd">Precio en pesos por litro.</string>
+    <string name="exchange_rate_notice">Es necesario que definas el tipo de cambio. Ejemplo: 21.12 para $21.12 pesos mexicanos por dólar.</string>
+    <string name="pregunta_tipo_de_cambio">¿Cual es el tipo de cambio?</string>
+    <string name="exch_rate_missing">Falta el tipo de cambio</string>
+    <string name="exch_rate_instructions">Antes de comenzar es necesario establecer el tipo de cambio.</string>
+    <string name="exch_rate_save">Guardar</string>
+    <string name="usd_result" formatted="false">$%.2f dólares por galón equivalen a $%.2f pesos por litro</string>
+    <string name="mxn_result" formatted="false">$%.2f pesos por litro equivalen a $%.2f dólares por galón</string>
+</resources>

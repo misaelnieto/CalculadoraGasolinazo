@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1023.9999"
+   height="1023.9999"
+   viewBox="0 0 307.19998 307.19998"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92pre3 r"
+   inkscape:export-filename="/home/nnieto/Code/CalculadoraGasolinazo/logo_72.png"
+   inkscape:export-xdpi="6.750001"
+   inkscape:export-ydpi="6.750001">
+  <title
+     id="title4538">Gasolinazo</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36769553"
+     inkscape:cx="433.35191"
+     inkscape:cy="381.99948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     scale-x="0.3" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gasolinazo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Noe Nieto</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(157.87348,-55.144804)">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#cacaca;stroke-width:7.97922087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4536"
+       cx="-4.2734828"
+       cy="208.7448"
+       r="149.61038" />
+    <g
+       id="g4534"
+       transform="matrix(0.79792207,0,0,0.79792207,-74.359262,175.06396)">
+      <path
+         sodipodi:nodetypes="casac"
+         inkscape:connector-curvature="0"
+         id="path4508"
+         d="m 87.835209,-132.78922 c 0,0 -125.270977,157.311163 -109.448162,258.14189 10.027517,63.90023 49.001659,91.85774 109.448162,91.85793 60.446631,1e-4 99.420951,-27.95755 109.448481,-91.85793 C 213.10652,24.521847 87.835209,-132.78922 87.835209,-132.78922 Z"
+         style="fill:#cacaca;fill-opacity:1;stroke:none;stroke-width:0.43689674" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4515"
+         d="M 78.279824,-83.629934 C 44.433957,-35.529403 14.023215,16.352188 0.96456605,74.205067 -5.0809497,105.94129 -0.6241204,142.33777 22.315776,166.71342 c 17.205586,17.94478 43.151423,22.82066 66.940088,22.7211 24.006196,-0.27659 50.890916,-6.69933 66.762336,-26.41359 7.72387,-9.2297 13.0234,-19.95072 16.30711,-31.31651 -15.8387,16.8435 -40.57468,22.46089 -62.80209,22.71699 -23.38701,0.0979 -48.894547,-4.69548 -65.809628,-22.33728 C 21.161021,108.12007 16.779464,72.337962 22.722905,41.137583 32.856372,-3.7560569 53.61836,-44.99214 78.279824,-83.629934 Z"
+         style="fill:#f87b27;fill-opacity:1;stroke:none;stroke-width:0.38631436" />
+    </g>
+  </g>
+</svg>
